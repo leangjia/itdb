@@ -1,8 +1,9 @@
-汉化方法：
-1、先fork一份到自己的github账号名下；
-2、再git clone到本机；
-3、在本机修改后用git add和git commit增加和提交；
-4、用git push推到github上。
+汉化方法：<br>
+1、先fork一份到自己的github账号名下；<br>
+2、再git clone到本机；<br>
+3、在本机修改后用git add和git commit增加和提交；<br>
+4、用git push推到github上。<br>
+<br>
 
 # About
 ITDB is a web based asset inventory management tool used to store information 
