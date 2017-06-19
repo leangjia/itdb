@@ -1,8 +1,13 @@
 汉化方法：<br>
 1、先fork一份到自己的github账号名下；<br>
-2、再git clone到本机；<br>
+2、再git clone到本机: git clone https://github.com/你的名字/itdb.git<br>
 3、在本机修改后用git add和git commit增加和提交；<br>
-4、用git push推到github上。<br>
+4、增加远程主源（即itdb官方原git源：git remote add origin https://github.com/sivann/itdb.git
+5、用git push推到github上。<br>
+6、把官方源拉回来到本地：git fetch origin<br>
+7、合并官方代码：git merge origin/master<br>
+8、将合并后的最新的代码推到你的github上：git push origin master<br>
+9、在github上点pull request向官方提交PR（即pull request）。<br>
 <br>
 
 # About
