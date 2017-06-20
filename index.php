@@ -403,8 +403,7 @@ if ($authstatus) {
 echo "<br> <small>".
      "<a href='CHANGELOG.txt' class='ahdr'>Version $version</a><br><a style='color:white' href='http://www.sivann.gr/software/itdb/'>sivann</a></small>\n";
 ?>
-<br>
-<a title='phpinfo' href='phpinfo.php'><img src='images/infosmall.png'></a>
+
 </div>
 <!-- END OF #leftcolumn -->
 
@@ -425,8 +424,12 @@ echo "</div>";// <!-- end of #mainpage -->
 
 echo "<span style='color:#aaa'>".t("server time")." = ".number_format(($itdb_end - $itdb_start),3).t("secs</span>"); 
 
-
+echo "<br> <small>".
+     "<a style='color:#003366' href='CHANGELOG.txt' class='ahdr'>Version $version</a><br><a style='color:#003366' href='http://www.sivann.gr/software/itdb/'>sivann</a></small>\n";
 ?>
+<br>
+<a title='phpinfo' href='phpinfo.php'><img src='images/infosmall.png'></a>
+<br>
 </body>
 </html>
 
