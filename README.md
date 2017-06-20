@@ -9,7 +9,21 @@
 8、将合并后的最新的代码推到你的github上：git push origin master<br>
 9、在github上点pull request向官方提交PR（即pull request）。<br>
 <br>
+附：
+ITDB初始化命令：<br>
 
+cd /var/www/html/data<br>
+cp pure.db itdb.db<br>
+cd /var/www/html/data<br>
+chown www-data itdb.db<br>
+chmod u+w itdb.db<br>
+chown www-data /var/www/html/data<br>
+chmod u+w /var/www/html/data/<br>
+chown www-data /var/www/html/data/files/<br>
+chmod u+w /var/www/html/data/files/<br>
+chown -R www-data /var/www/html/translations<br>
+chmod u+w /var/www/html/translations<br>
+<br>
 # About
 ITDB is a web based asset inventory management tool used to store information 
 about assets found in office environments, with a focus -but not lmited to- 
