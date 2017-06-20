@@ -1,3 +1,5 @@
+log
+20170619
 汉化方法：<br>
 1、先fork一份到自己的github账号名下；<br>
 2、再git clone到本机: git clone https://github.com/你的名字/itdb.git<br>
@@ -9,6 +11,7 @@
 8、将合并后的最新的代码推到你的github上：git push origin master<br>
 9、在github上点pull request向官方提交PR（即pull request）。<br>
 <br>
+20170620
 附：
 ITDB初始化命令：<br>
 
