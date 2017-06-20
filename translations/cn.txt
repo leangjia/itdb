@@ -337,7 +337,7 @@ on#于
 Occupation#在用
 Order By#订购人
 Order No#订单编号
-Order Num#订单量
+Order Num#订单编号
 order: status, id descending, item type, manufacturer#订单: 状态, 编号（逆序）, 硬件类型, 厂商
 order: status, id, item type, manufacturer#订单: 状态, 编号, 硬件类型, 厂商
 order: status, item type, manufacturer,id#订单: 状态, 硬件类型, 厂商, 编号
