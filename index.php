@@ -241,6 +241,7 @@ if ($dlg && $authstatus) {
 </div>
 
 <span id=logo>
+<a style='<?php echo $style_?>' class='ahdr' href="<?php echo $scriptname?>" ><img width=100px height=60px src="images/IT.jpg" title="LOGO"></a>
 </a><?php te("IT ITems DataBase")?>
 </span>
 
