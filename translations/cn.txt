@@ -29,7 +29,6 @@ lazycrazy.deviantart.com/<br>#网站：lazycrazy.deviantart.com/<br>
 famfam#网站：famfamfam.com
 Login#登陆
 Session Expired#会话过期
-Company short name#芙莱克斯
 0:black, 255:white#0:黑色, 255:白色
 About#关于
 Accounting#帐目
