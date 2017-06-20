@@ -514,6 +514,7 @@ Warning#Warning
 Warr. Rem. days#维保剩余天数
 Warranty Info#维保信息
 Warranty Months#维保月数
+Warranty&nbsp;Months#维保月数
 Warranty#维保
 Warr. Left#维保
 Warranty expiration in #保修期满
