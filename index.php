@@ -399,9 +399,6 @@ if ($authstatus) {
   <a title='<?php te("Download a complete installation backup (much larger)");?>' class='ahdr' href='gettar.php'><img src='images/backup.gif' width=20>Full Backup</a><br>
 <?php 
 }
-
-echo "<br> <small>".
-     "<a href='CHANGELOG.txt' class='ahdr'>Version $version</a><br><a style='color:white' href='http://www.sivann.gr/software/itdb/'>sivann</a></small>\n";
 ?>
 
 </div>
