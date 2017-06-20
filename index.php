@@ -241,7 +241,7 @@ if ($dlg && $authstatus) {
 </div>
 
 <span id=logo>
-IT ITems DataBase
+</a><?php te("IT ITems DataBase")?>
 </span>
 
 <hr class='green1'>
