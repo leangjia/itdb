@@ -29,6 +29,7 @@ chown -R www-data /var/www/html/translations<br>
 chmod u+w /var/www/html/translations<br>
 <br>
 20170621
+文件/js/jquery.dataTables.min.js中关键字sLoadingRecords附近的直接暴力汉化
 
 # About
 ITDB is a web based asset inventory management tool used to store information 
