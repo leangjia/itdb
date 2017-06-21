@@ -1,6 +1,6 @@
 
-log
-20170619
+log<br>
+20170619<br>
 汉化方法：<br>
 1、先fork一份到自己的github账号名下；<br>
 2、再git clone到本机: git clone https://github.com/你的名字/itdb.git<br>
@@ -28,9 +28,9 @@ chmod u+w /var/www/html/data/files/<br>
 chown -R www-data /var/www/html/translations<br>
 chmod u+w /var/www/html/translations<br>
 <br>
-20170621
-文件/js/jquery.dataTables.min.js中关键字sLoadingRecords附近的直接暴力汉化
-
+20170621<br>
+文件/js/jquery.dataTables.min.js中关键字sLoadingRecords附近的直接暴力汉化<br>
+<br>
 # About
 ITDB is a web based asset inventory management tool used to store information 
 about assets found in office environments, with a focus -but not lmited to- 
