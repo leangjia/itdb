@@ -1,3 +1,4 @@
+
 log
 20170619
 汉化方法：<br>
@@ -27,6 +28,8 @@ chmod u+w /var/www/html/data/files/<br>
 chown -R www-data /var/www/html/translations<br>
 chmod u+w /var/www/html/translations<br>
 <br>
+20170621
+
 # About
 ITDB is a web based asset inventory management tool used to store information 
 about assets found in office environments, with a focus -but not lmited to- 
